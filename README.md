@@ -22,10 +22,12 @@ B) With this system:
 SYSTEM ARCHITECTURE (WITH EXAMPLE) BELOW:
 
 LAYER 1: USER INTERFACE
+
 User asks: "If I go long AAPL at $150 with a $100k account risking 1.5%, what's my position size?"
 via - Claude Chat / CLI Chat / REST API
 
 LAYER 2: AI REASONING
+
 Claude (Gen AI)
 • Recognizes: "This needs position_size calculation"
 • Decides what tools to use
@@ -34,12 +36,14 @@ Claude (Gen AI)
 • Writes a clear answer
 
 LAYER 3: TOOL CALLING
+
 MCP (Model Context Protocol)
 • Safe tool interface
 • Claude calls specific tools
 • Tools return structured data
 
 LAYER 4: FINANCIAL TOOLS
+
 fintools-mcp (Technical Analysis)
 • RSI, MACD, ATR, EMAs (indicators)
 • Support/Resistance (price levels)
@@ -49,6 +53,7 @@ fintools-mcp (Technical Analysis)
 • Trade Statistics (performance)
 
 LAYER 5: DATA SOURCE
+
 Yahoo Finance (Market Data)
 • Historical prices
 • Options chains
