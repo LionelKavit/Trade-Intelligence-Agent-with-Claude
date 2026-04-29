@@ -31,6 +31,17 @@ Returns in 10 seconds:
 
 ---
 
+###Please refer to the following files to see different setups and their analyses reports:
+
+1. NVDA_Equity_Analysis_Apr29_2026 -> For Equity Research
+
+2. USChina_Macro_Analysis_Apr29_2026 -> For Macro Analysis
+
+3. NVDA_AMD_TSM_Peer_Comparison_Apr29_2026 -> For Peer Comparison
+
+4. TSM_Options_Analysis_LiveData_Apr29_2026 -> For Options Chain Analysis
+
+---
 ## Value Proposition
 
 | Metric | Before | After |
