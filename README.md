@@ -31,7 +31,7 @@ Returns in 10 seconds:
 
 ---
 
-###Please refer to the following files to see different setups and their analyses reports:
+### Please refer to the following files to see different setups and their analyses reports:
 
 1. NVDA_Equity_Analysis_Apr29_2026 -> For Equity Research
 
